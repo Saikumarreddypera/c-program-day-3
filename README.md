@@ -1,1 +1,1 @@
-# c-program-day-3
+# c++-programming-day-3
